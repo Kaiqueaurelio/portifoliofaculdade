@@ -11,7 +11,7 @@ Este repositório contém um projeto acadêmico desenvolvido como parte do curso
  Instalação e Configuração
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Kaiqueaurelio/nome-do-repositorio.git
+   git clonehttps://github.com/Kaiqueaurelio/portifoliofaculdade/blob/main/Projeto%20de%20Banco%20de%20Dados%20com%20SQL%20Server
    ```
 2. Importe os scripts SQL do diretório `scripts/` para o SQL Server.
 
